@@ -58,5 +58,5 @@ You can click the Preview link to take a look at your changes.
 ## 📱 Devices in use
 ![Xiaomi Mi 10](https://img.shields.io/badge/Xiaomi%20Mi%2010%20Pro-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
 ![Xiaomi Mi 2](https://img.shields.io/badge/Xiaomi%20Mi%202-fd4900?style=flat-square&logo=xiaomi&logoColor=ffffff)
-![Google Pixel 3](https://img.shields.io/badge/Google%20Pixel%203-4285f4?style=flat-square&logo=google&logoColor=ffffff)
+![Google Pixel 3](https://img.shields.io/badge/Google%20Pixel%203-4285f4?style=flat-square&logo=meizu&logoColor=ffffff)
 ![Raspberry Pi 4 Model B](https://img.shields.io/badge/Raspberry%20Pi%204%20Model%20B-a22846?style=flat-square&logo=raspberry%20pi&logoColor=ffffff)
